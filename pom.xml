@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.EmployeeDb</groupId>
-	<artifactId>EmployeeDb</artifactId>
+	<artifactId>CompanyDir</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmployeeDb</name>
 	<description>EmployeeDb</description>

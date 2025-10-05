@@ -1,4 +1,4 @@
-package com.EmployeeDb.EmployeeDb.Payload;
+package com.Company.Company.Payload;
 
 public class CompanyDataDTO {
     private Long id;

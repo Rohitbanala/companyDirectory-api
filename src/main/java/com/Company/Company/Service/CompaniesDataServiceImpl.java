@@ -1,8 +1,8 @@
-package com.EmployeeDb.EmployeeDb.Service;
-import com.EmployeeDb.EmployeeDb.GlobalExceptionHandler.APIException;
-import com.EmployeeDb.EmployeeDb.Model.Companies;
-import com.EmployeeDb.EmployeeDb.Payload.CompanyDataRes;
-import com.EmployeeDb.EmployeeDb.Repo.CompanyRepo;
+package com.Company.Company.Service;
+import com.Company.Company.GlobalExceptionHandler.APIException;
+import com.Company.Company.Model.Companies;
+import com.Company.Company.Payload.CompanyDataRes;
+import com.Company.Company.Repo.CompanyRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

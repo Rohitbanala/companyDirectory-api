@@ -1,4 +1,4 @@
-package com.EmployeeDb.EmployeeDb.GlobalExceptionHandler;
+package com.Company.Company.GlobalExceptionHandler;
 public class ResourceNotFoundException extends RuntimeException {
     String resourceName;
     String field;

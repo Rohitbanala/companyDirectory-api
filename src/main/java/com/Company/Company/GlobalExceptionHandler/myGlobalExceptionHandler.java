@@ -1,4 +1,4 @@
-package com.EmployeeDb.EmployeeDb.GlobalExceptionHandler;
+package com.Company.Company.GlobalExceptionHandler;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

@@ -1,6 +1,6 @@
-package com.EmployeeDb.EmployeeDb.Payload;
+package com.Company.Company.Payload;
 
-import com.EmployeeDb.EmployeeDb.Model.Companies;
+import com.Company.Company.Model.Companies;
 
 import java.util.List;
 

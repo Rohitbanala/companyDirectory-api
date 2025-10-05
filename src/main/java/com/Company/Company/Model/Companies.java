@@ -1,4 +1,4 @@
-package com.EmployeeDb.EmployeeDb.Model;
+package com.Company.Company.Model;
 import jakarta.persistence.*;
 
 @Entity

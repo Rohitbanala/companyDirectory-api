@@ -1,6 +1,6 @@
-package com.EmployeeDb.EmployeeDb.Controller;
-import com.EmployeeDb.EmployeeDb.Payload.CompanyDataRes;
-import com.EmployeeDb.EmployeeDb.Service.CompaniesDataService;
+package com.Company.Company.Controller;
+import com.Company.Company.Service.CompaniesDataService;
+import com.Company.Company.Payload.CompanyDataRes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

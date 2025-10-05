@@ -1,5 +1,5 @@
-package com.EmployeeDb.EmployeeDb.Service;
-import com.EmployeeDb.EmployeeDb.Payload.CompanyDataRes;
+package com.Company.Company.Service;
+import com.Company.Company.Payload.CompanyDataRes;
 
 
 
